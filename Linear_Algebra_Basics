@@ -1,0 +1,21 @@
+Linear Regression can be basically of basically of univariate linear regression or multi variate linear regression
+It covers the operations done on matrices
+----Basics of Vectors and Matrices
+Vectors are actually shapes of matrices which we write in the form of rows and columns
+Columns represents the dimensions of a vector, and rows represents matrix
+
+Vector Space:
+Collection of all the possible Vectors
+Unit Vector:
+1)Vector of magnitude[Length of a Vector] 1 and 90 degree with another vector
+Denotation:
+A = X + Y
+A = a * i + b * j
+***Any vector from a vector space can be represented in terms of linear combination of unit vector of its vector space
+Addition of two vectors by scaling up or scaling down
+
+Dot Product using projection of vectors:
+If x = (a,b)
+|x| = √a2 + b2
+
+Linear Transformation:
